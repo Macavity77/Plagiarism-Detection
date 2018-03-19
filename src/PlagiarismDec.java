@@ -2,6 +2,7 @@ import java.util.List;
 
 /**Plagiarism Detector
  * @author Ze Wang
+ *
  */
 public class PlagiarismDec {
 
